@@ -1,0 +1,46 @@
+Individual quizzes and assignments from lecture material
+Group writing assignments and poster or video presentation
+Two exams: midterm and final
+
+* What is a software requirement or specification?
+	* A requirement is a capability that the system must 	deliver 
+	* We don’t ask what it shouldn’t be doing (or at least not 	usually), we ask what it should be doing
+	* Example:
+		* Customer says “I want a rock”
+		* Customer says they want the rock to be small
+		increased the level of information that has been
+		provided to us
+		* Customer says they want a small, smooth rock
+		continuing to get better in the process
+		* Customer says they want a small, smooth, blue
+		rock – they’re getting smarter
+			* i.e. you continue to give customer examples of
+			the bare bones of what they’re asking for and 				wait for them to refine the request 
+		* What did the customer really want?	
+			* A small blue marble
+			* Why didn’t they just say that?
+			* Couldn’t figure out how to ask for what they 				wanted
+* Why are software requirements hard?
+	* Software is intangible, complex, abstract, ‘soft’, etc.
+	* About half of software systems are over budget and behind 	schedule (yikes)
+	* 25%-33% of software projects are canceled
+* Other stakeholders
+	* The customer may not be the end user
+	* Other non-users might have a stake in the project
+* The goal of software dev
+	* Develop quality software on time and budget that meets 	customers’ needs
+	* What is quality?
+		* Three causes of ‘challenges’ to software projects:
+			* 13% due to lack of user input
+			* 12% due to incomplete requirements
+			* 12% due to changing requirements
+		* As of 2013…
+			* 36% success rate in chaos resolution
+			* 48% challenged rate in chaos resolution
+			* 16% fail rate in chaos resolution
+	* Who is/are the customers?
+	* How to know their needs?
+* Cost of requirements for changes/errors
+	* 1x for errors found in analysis
+	* 10x for errors found in coding
+	* 100x for errors found in testing
