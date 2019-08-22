@@ -1,0 +1,142 @@
+* Cost of requirement changes/errors
+	* Cost of errors or changes to requirements grows between
+	2-10 times between each stage of software lifespan
+	* Software lifespan: requirements gathering, design,
+	implementation, testing, user-acceptance testing,
+	deployment, maintenance
+* When we're working on our class projects, what first goes into
+the project?
+	* Inputs and outputs, bugs (haha)
+* What is a requirement? Examples
+	* Inputs, outputs, functions, attributes of the system and 
+	the environment
+** Rafal actually said "Yo go check it out!" ** 
+* What makes Yo worth anything?
+	* It's simple
+	* Can be used for anything depending on group context
+	* Kind of like a pager
+	* Inputs: network of friends that we want to alert
+	* Outputs: yo
+	* Attribute of system: fast sending/receiving of messages
+* Requirements Management
+	* A systematic approach to eliciting, organizing,
+	documenting requirements and a process establishing and
+	maintaining agreement on how they are changed
+	* Whole standards (ISO 9000) have been developed around
+	this
+		* ISO = International Organization for Standardization
+* Management Responsibility
+	* The quality policy shall be defined, documented,
+	understood, implemented, and maintained.
+	* Responsibilities and authorities for all personnel
+	specifying, achieving, and monitoring quality shall be
+	defined
+	* In-House verification resources shall be defined, trained,
+	and funded
+	* ??? 
+* Quality System
+	* Procedures shall be prepared and implemented
+	* Toyota realized that their robots weren't able to improve
+	quality, just maintain it. So they hired people to watch the
+	robots to try and improve quality or something
+* Contract Review
+	* Incoming contracts and POs shall be reviewed to see
+	whether the requirements are adequately defined, agree with 
+	the bid and can be supplied
+* Design control (comes after requirements)
+	* Design project shall be plan
+	* input parameters shall be defined
+	* output including curcial product characteristics shall be
+	documented
+	* Output shall be verified to meet input requirements
+	* Changes shall be controlled
+* Document control
+	* Generation, distribution, changes of/to documents shall be
+	controlled.
+** All assignments in this class will be turned in through git **
+** Assignments will be done in markdown **
+* Purchasing
+	* Potential subcontractors and subsuppliers shall be
+	evaluated for their ability to provide stated requirements
+	* Requirements shall be clearly defined in contracting data
+	* Effectiveness of the subcontractor's quality assurance
+	system shall be assessed
+** We just received the first "say yes" of the semester ** 
+* Customer suuplied material
+	* Any customer supplied material shall be protected against
+	loss or damage
+* Product identification and traceability
+	* The products shall be indentified and traceable by item,
+	batch, or lot during all stages of production, delivery, 
+	and installation.
+* Process control
+	* Production and installation processes shall be defined
+	and planned
+	* Production shall be carried out under controlled
+	conditions: documented instructions, in process controlls,
+	approval of processes and equipment, and criteria for
+	workmanship.
+	* Special processes that cannot be verified after the fact
+	shall be monitored and controlled throughout the processes
+* Inspection and testing
+	* Incoming materials shall be inspected or verified before
+	use
+	* In process inspection and testing shall be performed
+	* Final inspection and testing shall be performed prior
+	to release of finished product
+	* records of inspection shall be kept
+* Inspection/measuring/test equipment
+	* Equiptment used to demonstrate conformance shall be
+	controlled, calibrated, and maintained
+	* Identify measurements to be made
+	* Identify affected instruments
+	* Calibrate instruments
+	* Periodically check calibration
+	* Assess measurement validity if found out of calibration
+	* Control environmental conditions in metrology lab
+	* Measurement ???
+	* ???
+* Inspection and test status
+	* Status of inspections and tests shall be maintained for
+	items as they progress through various processing steps
+	* Records shall show who released conforming product
+* Control of nonconforming product
+	* nonconforming products shall be controlled to prevent
+	inadvertent use or installation
+	* Review and disposition of nonconforming products shall be
+	formalized
+* Corrective action
+	* Problem causes shall be identified
+	* Specific problems and their causes shall be corrected
+	* Effectiveness of corrective actions shall be assessed
+* Handling, storage, packaging, delivery
+	* Procedures for these things shall be developed and 
+	maintained
+	* Handling controls shall prevent damage and deterioration
+	* Secure storage shall be provided. Product in stock shall
+	be checked for deterioration
+	* ???
+	* ???
+* Quality records
+	* Quality records shall be identified, collected, indexed,
+	filed, stored, maintained, and dispositioned
+* Internal quality audits
+	* Audits shall be planend and performed
+	* Results shall be communicated to management
+	* Deficiencies found shall be corrected
+* Training
+	* Training needs shall be identified
+	* Training shall be provided
+	* Some tasks may require qualified individuals
+	* Records of training shall be maintained
+* Servicing
+	* Servicing activies shall be performed to written
+	procedures
+	* Servicing activies shall meet requirements
+* Requirements management
+	* Think of requirements as a three stage process
+	* First: understand the customers' need in the context of
+	the problem domain
+	* Next: software feature must be envisioned to meet that
+	need
+	* Finally: requirements to constrain and define that feature
