@@ -1,0 +1,71 @@
+* Talking a lot about data centers and what it takes to protect
+them. Basically need to know that they're huge and require a lot
+of security and power to provide cooling.
+	* Some companies are submerging computers in the ocean to
+	keep them cool? That's crazy.
+	* Some zones are separated 60-100 miles apart. Why separate
+	them? 
+		* Redundancy. Hopefully if there's a weather event or
+		something it won't affect both data centers in one
+		zone.
+* Why are we not using Amazon?
+	* Google is easier to learn with.
+	* Demo moving to GCP, I'll try to still take notes
+* GCP
+	* Clock on Activate Cloud Shell on the top banner towards
+	the right
+	* You can change the color theme (light/dark) by clicking on
+	the wrench in the left corner of the cloud shell
+	* type man ls into the shell
+		* Shows you all of the commands you can use, we will
+		not be tested over all of these
+	* ls -h or ls -H is not much help, I think we're looking for
+	a way to ask the cloud shell for help?
+	* man = manual pages
+	* Aha! We do man -k list
+	* mkdir = make directory
+		* Syntax: mkdir <directory name>
+	* cd = change directory
+		* Syntax: cd <directory name>
+	* pwd = print working directory
+		* Syntax: pwd
+	* rm = remove
+	* git --version tells you which version of git you have.
+	* git is already installed in GCP, don't need it on your
+	machine. 
+	* Best (?) part of version control
+		* You're able to keep track of why you did things and
+		how they're related? Your commit is 'all encompassing' 
+		for the changes you've made to that file
+		* Able to see where issues are and stuff
+	* To start using git in GCP
+		* Make sure you're in the right directory
+		and type git init
+		* ls -al to see what is in the empty git repo
+			* . directory is the current directory
+			* .. directory is the parent directory
+			* .git is the empty directory
+		* create a file: touch <file name>
+			* You can only write to a file if it exists
+			(shocking)
+		* add to git: git add <file name>
+		* track steps you've done so far: history
+		* see what the status of work on it is: git status
+		* to commit a file: git commit -m "commit message"
+			* Need to sign in if it's the first time you're
+			using git: git config --global user.email "email"
+			git config --global user.name "name"
+		* After typing history, to type a specific command
+		from your history, you can do !<command number> to run
+		that command again
+	* Make 100 files at once
+		* for i in `seq 1 100`; do touch $i; done
+			* you can make specific file types by doing
+			i.filetype
+	* | means 'piping', you can filter what's displayed I think?
+	* Edit file:
+		* nano <file name>
+		* type
+		* ctrl x
+		* git diff shows the change made in the file
+		* cat <file name> shows what's in the file
