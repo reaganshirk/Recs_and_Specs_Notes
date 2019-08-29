@@ -1,0 +1,39 @@
+* Three areas when using GitHub
+	* Working area
+		* move from working to staging: add
+	* Staging area
+		* move from staging to repository: commit
+	* Repository
+	* Remote didn't enter picture here, probably will today?
+		* You can have more than one remote, but how? We're
+		gonna get there as well
+* How many different versions of one file can you have?
+	* 3. One in the working area, staging area, and repo
+	* In the repo, you can have as many versions as the number
+	of commits you've made
+	* One file with 10 commits, how many different versions of
+	that file can you handle?
+		* 12. 10 copies in repo, one in staging area, one in 
+		working area.
+* nano <file name> creates and allows you to edit the new file
+* git status <file name> gives git status of the individual file
+* How can we compare the three versions of a file? (working,
+staging, repo versions)
+	* cat <file name>
+	* git diff <file name>
+* Red and green aren't a good choice of colors because there are
+a lot of people who are color blind (not really relevant to
+lecture but it makes me giggle that he brought it up)
+* Is there significance in the number next to commit after typing
+"git log"?
+	* Yes but I didn't hear what he said it was, maybe something
+	about hash?
+	* Yes, it's a hash number!
+* git branch tells you which branch you're on
+* git fetch fetches from the cloud?
+* git diff master origin/master <file name> shows the changes
+made in the cloud post fetching
+* commit messages should encompass changes made to be of value
+when you're looking back at them
+* For every assignment we will be assigned a git repo. Our
+submitted assignment will be a link to our assigned repo
