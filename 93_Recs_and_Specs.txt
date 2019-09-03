@@ -1,0 +1,23 @@
+* If there is no license attached to code, what can we officially
+do with that code?
+	* Contact the owner
+		* If there's no license, why bother?
+		* What if the owner doesn't get back to us?
+	* Do whatever you want
+		* No
+	* Copyright law or some shit, you do actually have to
+	contact the owner of the repo
+	* Git highly recommends a README.md and a license 
+* How can we prevent git from listing every file when we look at 
+git status
+	* a .gitignore file
+	* inside you put the name(s) of the file(s) you want to
+	ignore
+	* you can still add files in .gitignore but you have to
+	force it (-f)
+	* git add -f <filename>
+* Git is your friend :)
+* Git checkout moves things from repo back into the working area
+* Wants all of us to try BitBucket
+* Can't do git rm (git remove) on a file that is in the staging
+area
