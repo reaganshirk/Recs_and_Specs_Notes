@@ -1,0 +1,27 @@
+- Three working areas for files <br />
+  - Working area <br />
+      - Move from working to staging: `git add <filename>` <br />
+  - Staging area <br />
+    - Move from staging to repository: `git commit -m <filename>` <br />
+  - Repository <br />
+    - Didn't enter the picture yet, probably will today? <br />
+    - You can have more than one remote, but how? We're gonna get there as well <br />
+- How many different versions of one file can you have? <br />
+  - Three. One in working area, one in staging area, one in repository <br />
+  - In the repository, you can have as many versions as the number of commits you've made <br />
+  - One file with 10 commits, how many different versions of that file can you handle? <br />
+    - 12, 10 copies in the repository, one in the staging area, one in the working area <br />
+- `nano <filename>` creates a new file land allows you to edit it <br />
+- `git status <filename>` gives the git status of the individual file rather than the whole folder <br />
+- How can we compare the three versions of a file? (working, staging, repository versions) <br />
+  - `cat <filename>` <br />
+  - `git diff <filename>` <br />
+- Red and green aren't a good choice of colors because there are a lot of people who are color blind (not really relevant to lecture but it makes me giggle that he brought it up) <br />
+- Is there significance in the number next to commit after typing `git log`? <br />
+  - Yes but I didn't hear what he said it was, maybe something about hash? <br />
+  - Yes, it's a hash number! <br />
+- `git branch` tells you which branch you're on <br />
+- `git fetch` fetches from the cloud? <br />
+- `git diff master origin/master <filename>` shows the changes made in the cloud post fetching <br />
+- commit messages should encompass changes made to be of value when you're looking back at them <br />
+- for every assignment we will be assigned a git repo. Our submitted assignment will be a link to our assigned repo <br />
