@@ -1,0 +1,69 @@
+* Use cases in high level format
+	* Use case: buy items
+	* Actors: customer, cashier 
+	* Type: primary
+	* Description: A customer arrives at a checkout with items
+	to purchase. The cashier records the purchase items and
+	collects a payment. On completion, the customer leaves with
+	items.
+	* More use cases: 
+		* Process different forms of payment during purchase
+		* What role are you logging in as? (cashier, manager,
+		etc)
+		* Coupons/sales when buying items
+		* Damaged items when purchasing
+		* Be able to delete items if customer changes their
+		mind
+		* Need cashier to be able to log out
+		* Manager needs be able to shut down
+		* Manager/auditor/whoever might want to review
+		purchase history
+		* Inventory and reports
+		* I zoned out a while ago sorry friends
+		* Something about cancelling sale or removing items?
+			* Apparently the first step was to cancel the
+			sale
+			* Something about security taking the customer
+			away?
+		* First thing we should focus on: log in page, I
+		think?
+	* Should our software be "feature rich" or should we push 
+	out something we can use today?
+		* Yay for minimum viable products!
+* "Let's be real- most of you will be working to kill jobs. Some
+of you will be working on jobs to kill people." When Rafal gets
+real dark real fast
+* Use case for sitting in class
+	* Actors: students, TA, professor
+* Use Case Generalization
+	* We have discovered the general behavior for creating a
+	blog and then want to show more specialized use cases
+	* Use case generalization = inheritance
+	* Indicates a special type of another case, pointing to a
+	parent case
+	* Back to the store example
+		* Something about buying expensive shit? 
+		* Something about checking for items in the warehouse
+			* We don't have the item locally but you can pay
+			here and we'll ship it to your house
+		* <<include>>, if you look at it long enough you can
+		extract certain cases from other cases
+			* You can do a price match?
+* The <<extend>> relationship stereotype
+	* Looks similar to inheritance but has very little in common
+	* Indicates a possibility for a complete refuse of another
+	cases behavior
+* Basic UML for Reqs and Specs
+	* Functional model: functionality from users' perspective
+	* Object model: static model of solution structure
+	* Dynamic model: model of interactivity
+* We will have quizzes coming soon
+* Restauraunt UML Model
+	* Actors: chef, client, cashier, waiter
+	* Use cases: order food <-- order wine, serve food <-- serve
+	wine, eat food <-- drink wine, pay for food <-- pay for
+	wine, take reservations, assign waiters to tables, order
+	online, verify/notify customers of food allergies, 
+		* What if you just want to drink and not eat food? 
+			* Wine is a special case, extends food. 
+* Homework coming soon. Can't wait. Git and markdown
