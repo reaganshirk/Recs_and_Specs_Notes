@@ -1,0 +1,11 @@
+* We'll download UMLet at some point to make UML diagrams
+* Individual assignment today (9/17) and group assignment
+Thursday (9/19), both in class
+	* Group assignment will be using UMLet to make shit
+* Git stuff
+	* git branch tells you which branch you're on
+	* To create a branch: git checkout -b <branch name>
+	* git checkout master changes branch to master
+	* git merge <branch name> merges the branches
+		* Still have to add and commit before you can merge
+	* git push origin <branch name> to push to whichever branch
