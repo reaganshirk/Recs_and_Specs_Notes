@@ -1,0 +1,39 @@
+* Use Case Overview Diagram
+	* Just shows which parts are shared
+	* Mainly actors/stereotypes
+	* Allows you to see what types of activities are happening
+	in the system
+* UML Activity Diagrams
+	* Easy to follow and most widely used
+	* Show a business process
+	* Capture branching and decisions
+	* Similar to flowcharts
+	* Activity is being modeled
+	* Action is part of the activity step
+	* Part of process view
+	* Initial Node: indicated by a full black circle
+	* Actions: rounded rectangles indicating
+		* performed behaviors
+		* computations
+		* key steps in process
+	* activity final node: indicated by the black circle inside
+	an empty circle
+	* Arrowed lines indicate start or end: there is a direction
+	between activities
+		* Incoming = line going into node
+		* Outgoing - line exiting the node
+	* Diamond shaped nodes are called ??? - equivalent to if
+	else statements
+	* Diamond shaped nodes that are called ??? - place when
+	branches of decisions come into the next common phase
+	* Branch edges display guard conditions captured in brackets
+* Sorry fam I don't know what the fuck he's talking about rn
+	* Aren't we supposed to be working on our group
+	assignments??
+* Simplifying diagrams
+	* Upside down pitchfork indicates a call activity node - 
+	similar to calling a procedure 
+* Time events
+	* Time may be a factor in activity
+	* Model a wait period
+	* Model a process repeating at the regular interval
