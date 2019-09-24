@@ -1,0 +1,77 @@
+* Interaction Diagrams
+	* Three types, all belong to the logical view in 4+1
+		* Sequence
+			* Popular UML diagrams
+			* Capture the order of interactions between parts
+			of a system
+			* Associate a use case execution with an order of
+			interactions, not duration
+			* Add participants, they will go to the top of
+			the diagram
+			* Every participant will have a name and maybe a
+			selector (selector can be a number)
+			* Need to show the classes so you can specify
+			your software
+				* Language independent, same diagram should
+				work across many languages
+			* Size of duration has nothing to do with the
+			time it takes, timing diagrams should be used for
+			detailed timing information
+		* Communication
+		* Timing
+* Events, messages, and signals
+	* Events are points in an interaction, building block for 
+	signals and messages
+	* Signals and messages indicate the same things and look
+	alike
+		* Software devs --> messages
+		* System designers --> signals
+		* Just using different words to keep everyone
+		confused :)
+	* Synchronous messages are optional (I think that's what he
+	said?) but need an acknowledgement if they're there
+* Message signatures
+	* Messages have signatures/descriptions with any number of 
+	arguments separated with a comma
+	* format
+		* attribute = message_name(arguments):return_type
+			* arguments can be omitted
+			* return type can be omitted
+	* Changing program means you have to go back and change the 
+	diagram
+		* How do you reproduce the diagram if it disappears?
+			* You don't
+			* Somehow supposed to show how agile development
+			is better than waterfall development?
+* Activation bars
+	* they are optional
+	* they help to group things but if your diagram becomes
+	cluttered you can remove them, just need to be consistent
+	* Receiving participant is said to be active upon receiving
+	a message
+		* the activation bar illustrates the sending of a
+		message (I think?)
+* Nested messages
+	* messages sent by a receiver are nexted, captured within
+	the activation bar
+* Types of messages
+	* Solid line with filled in arrow on the right is a
+	synchronous message
+	* Solid line with unfilled arrow on the right is an
+	asynchronous message
+		* asynchronous means there is no return message
+	* Dotted line with unfilled arrow on the left is a return
+	message
+	* Dotted line with unfilled arrow on the right with
+	<<create>> above it is a participant creation message
+	* Solid line with filled arrow on the right with <<destroy>>
+	above it is a participant destruction message
+* Synchronous and asynchronous messages
+	* The message caller waits for the synchronous message
+	receiver to be done
+	* Threads are asynchronous messages
+	* The return message is optional
+* Creation and destruction
+	* if you see <<destroy>> in your diagram you'll probably be
+	using C++ because Java has no explicit destroy (or delete)
+	keyword
