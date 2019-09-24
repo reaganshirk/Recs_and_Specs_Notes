@@ -74,4 +74,4 @@
 * Creation and destruction
 	* if you see <<destroy>> in your diagram you'll probably be
 	using C++ because Java has no explicit destroy (or delete)
-	keyword
+	keyword.
