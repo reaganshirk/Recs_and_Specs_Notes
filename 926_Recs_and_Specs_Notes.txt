@@ -1,0 +1,27 @@
+* Think about calendaring software, who are possible actors, what
+is the sequence of events?
+	* Everyones ideas for actors/sequence of events will be 
+	relatively different even if it achieves the same goal
+	* You can easily add your ideas/change the UML diagram shown
+	to reflect what you were thinking
+	* Actors
+		* you
+		* coworkers
+		* Event APIs...? Didn't think that would be an actor,
+		clearly I don't completely understand the definition
+		of an actor lol
+* Sequence Diagrams with Sequence Fragments
+	* Fragment family
+		* ref: removing a very complex part of the diagram
+		and referencing it somewhere else
+		* uml-diagrams.org has good examples of uml diagrams
+			* ref example: handling errors on a
+			submit_comments diagram
+		* assert: I was on groupme and missed the explanation
+		sorry
+		* loop: literally demonstrates a loop in the diagram
+		* break: indicates that you can exit the loop when the
+		break condition is met
+		* alt: similar to an if statement
+		* opt: optional transaction
+* Time to work on group graph assignment
