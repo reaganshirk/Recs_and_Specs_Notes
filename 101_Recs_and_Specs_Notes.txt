@@ -1,0 +1,55 @@
+* Origin of Requirements
+	* Where do requirements come from? Stakeholders!
+		* Sometimes the market, not always
+		* Costumer/client
+		* User
+		* Other stakeholders
+	* Anywhere else?
+		...??
+* Can't stakeholders tell you their needs?
+	* Problem 1: Who are the stakeholders?
+	* What if the stakeholder isn't there?
+		* ... ??
+	* Even if you know all of the stakeholders (and you have
+	communication with them) you may not identify all of their
+	needs
+* Yes, but syndrome
+	* HUman nature causes everyone to imagine differently, and
+	software is impossible to visualize and understand
+	universally
+	* The stakeholder, when seeing the software product for the
+	first time will almost always react with a "yes, that's
+	great, but..."
+	* I.e. requirements will changes as the stakeholders'
+	perspective of the product changes during observation
+* "You should take the class public listening"
+* Undiscovered ruins syndrome
+	* How many undiscovered ruins are there?
+	* When do you know when you have found all the materially
+	important requirements?
+		* You don't.
+	* Why are non-user stakeholders so important to identify?
+	* You can reach a point where you have enough requirements
+	to proceed
+* Bottom line: requirements person will not take the good
+requirements, the stakeholder won't tell you about it, the
+developer is blamed.
+* Needs and features
+	* A need is a reflection of the business, personal, or
+	operations problem
+	* A feature is there to meet the needs
+	* Rule of thumb: dozens to a hundred features
+	* Features bridge the gap between user domain and software
+	domain and they are useful for managing scope
+	* Managing links, sponsors, history, priority, etc of
+	features (these are attributes) is immensely helpful
+* Techniques for requirements elicitation
+	* Interviewing - go actually talk to the person
+		* Who, what, when, where, why
+		* Basic and useful
+		* Context free questions to eliminate bias
+		* Plan, build rapport, take notes, veer off course
+	* Questionnaire
+	* Requirements workshop
+	* Brainstorming
+	* Storyboarding
