@@ -1,0 +1,41 @@
+* Requirements elicitation
+	* Interviewing
+		* Pretty sure I've already taken these notes, but...
+		* Analyst Summary where 10+10+10 != 30
+		* Tips:
+			* Plan, plan, plan
+			* Build rapport
+			* Take notes freely
+			* Veer off course
+		* Very useful technique
+		* Who, what, when, where, why
+		* Context free questions help eliminate bias (solution
+		selling)
+	* Questionnaires
+		* Replace quality with quantity
+		* Present almost always a negative trade off
+			* Inflexible
+			* Non-interactive
+			* High bias risk
+				* Most dangerous part, non interactive
+				and non flexible
+			* Questionable participation
+		* Can be used as a follow up technique to an interview
+		* Only getting all of the information you thought
+		about, not a great representation of all of the info
+	* Requirements workshop
+	* Brainstorming
+	* Storyboarding
+* User and Developer Syndrome
+	* Communication between developer and user/stakeholder is
+	shitty
+	* California NULL license plate guy is prime example of this
+	syndrome
+* "A developer in California wanted to be cute. I mean all 
+developers are cute but he wanted to be really cute" - Rafal,
+talking about the California man who made a vanity plate that
+said NULL
+* Sorry guys I stopped paying attention because I have a gig to
+prep for this weekend but he posts his slides and he's talking
+about what to do when users don't really know what they want/
+how to explain what they want as actual requirements
