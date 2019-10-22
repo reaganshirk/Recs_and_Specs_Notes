@@ -1,0 +1,34 @@
+* New group assignment due on Thursday - need to use Yo. Will be using github as well. Brainstorming new features to add to Yo.
+	* Different types of Yo's (Yo!, Yo., Yo :), etc)
+* Techniques for requirements elicitation
+	* Brainstorming
+		* Allow everyone to author their own ideas
+		* Must include idea reduction
+			* Prune, group, define features, prioritize
+			* Prioritization techniques
+				* cumulative voting
+				* Critical/important/useful
+		* Generally, use index cards
+		* Practical rules
+			* No criticism, be imaginative, go for quantity,
+			mutate and combine (not reduce)
+	* Storyboarding
+		* Descriptive "user stories"
+		* Should be
+			* inexpensive, friendly/informal, easy to
+			create/modify
+		* Solves yes but and developer/user syndromes
+		* Something about Rafal wanting us to read xkcd?
+		* Types:
+			* passive, active, interactive
+			* passive is the easiest to make
+				* screenshots, outputs/reports
+			* interactive
+				* live demo, interactive presentation
+				* huge expense early on
+		* Describes (like a good descriptive story)
+			* who (actors)
+			* what (behavior/functionality)
+			* how (interactions)
+		* May be pen/paper or interactive
+		presentation/prototyping

@@ -1,0 +1,98 @@
+* Sorry for no notes last week, I was out with a concussion. But
+ya bitch is back now
+* Usability
+	* Training time to be minimal and operationally productive
+		* How do you measure "minimal"? 
+			* One person use the product, as they learn
+			shortcuts take note of them until there is an
+			optimal way to use and therefore minimal way to
+			train
+		* What does operationally productive mean?
+			* Something about how computer scientists get
+			hindered by using GUIs as they learn more about
+			how to work on the command line
+	* Measured time for common tasks
+		* How long does it take you to do things?
+	* Comparison to other/related/competing products
+		* Using Word vs Google Docs - you're comparing them
+		* Something about how you get dumber as you get older,
+		thanks Rafal
+	* Specify the existence of:
+		* help
+		* wizard
+			* tf is a wizard
+			* I missed the answer, tbh I still probably
+			shouldn't be in class
+		* tool tip
+		* manuals, other documentation
+	* Localization/internationalization
+	* Look and feel
+	* Consistency
+	* Conventions/standards for usability
+	* I don't really know what he's talking about but he's
+	mentioned that every feature you add is supes expensive
+	because you have to test it all 
+* Availability
+	* Time period during which the system functions normally,
+	with no failures
+	* Percentage of total application downtime over a set period
+		* Influenced by
+			* infrastructure
+			* malicious attacks
+			* hardware availability
+			* reliability and recovery
+				* infrastructure and hardware availibility
+				relate to reliability and recovery 
+* Security
+	* Prevention of loss and disclosure of information
+	* Data confidentiality
+	* Compliance issues that may arise
+	* Encryption (at rest and in flight)
+	* Something about freezing memory. My head hurts.
+* Maintainability
+	* Degree to flexibility to modifications and updates
+	* Use of best practices, standards, frameworks
+	* Release support with phased roll outs and future releases
+	* Alerts, thresholds
+	* Remote management
+	* Ability to reproduce the environment
+* Reliability
+	* Accuracy
+	* Bug rate
+* Extensibility
+	* Coping with changes due by providing flexible
+	architecture, design and implementation
+		* new information types
+		* new or modified business types
+		* Consume or generate new or modified data feeds
+* Recovery
+	* recovery time objective
+		* restore time
+		* backup time
+		* backup frequency
+	* location for backup
+	* mirroring location
+* Interoperability
+	* Capability to work with internal and external applications
+	and systems
+	* Capability to exchange information
+	* Leveraging open standards
+	* Being loosely coupled with external systems
+	* hardware/os
+* Performance
+	* response time
+		* average
+		* maximum
+	* throughput
+		* transactions per second
+	* capacity
+		* number of costomers, transactions, files, etc
+	* degradation modes
+		* systems behavior in a degraded state
+* Supportability
+	* Maintenance response time
+	* languages
+	* dbms (for some reason in a larger font than everything
+	else)
+	* programming tools
+	* styles/standards (may be included with design constraints)
