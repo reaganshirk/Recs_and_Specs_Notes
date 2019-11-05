@@ -1,0 +1,86 @@
+* I don't remember the last time I took notes in this class...
+* Requirements is an Iterative Process
+	* Big, up-front design (BUFD) replaced with "discovery
+	based" approach
+	* Helped create the Agile Software Development method
+		* Waterfall method got splintered into dozens of
+		methodologies that created Agile
+		* Individuals and interactions over processes and
+		tools
+		* Working software over comprehensive documentation
+		* Customer collaboration over contract negotiation
+		* Responding to change over following a plan
+* Agile Principles
+	* 1: Our highest priority is to satisfy the customer through
+	early and continuous delivery of valuable software
+	* 2: Welcome changing requirements, even late in
+	development. Agile processes harness change for the
+	customer's competitive advantage
+		* Create/plan for everything in a way that it can be
+		changed
+	* 3: Deliver working software frequently, from a couple of
+	weeks to a couple of months, with a preference to the
+	shorter timescale
+	* 4: Business people and developers must work together daily
+	throughout the project
+	* 5: Build projects around motivated individuals. Give them
+	the environment and support they need and trust them to get
+	the job done
+	* 6: The most efficient and effective method of conveying
+	information to and within a development. Team is face-to
+	face conversation
+	* 7: He went through 7 too quickly but he mentioned watching
+	Silicon Valley (it's actually a pretty good show tbh)
+	* 8: Agile processes promote sustainable development. The
+	sponsors, developers, and users should be able to maintain a
+	constant pace indefinitely
+	* 9: Continuous attention to technical excellencce and good
+	design enhances agility
+	* 10: Simplicity is essential
+		* simplicity should be the focus
+	* 11: The best architectures, requirements, and designs
+	emerge from self-organizing teams
+	* 12: At regular intervals, the team reflects on how to
+	become more effective, then tunes and adjusts its behavior
+	accordingly
+		* aka meet regularly 
+* Agile Methods
+	* Dynamics System Development
+	* Feature Driven Development
+	* Adaptive System Development
+	* Scrum
+		* Work done in timeboxed "sprints"
+		* Work within on "sprint" is fixed
+			* Work done according to a product backlog
+			* A product owner plays the role of the customer
+			* A scrum masters responsible for delivery
+			* A daily stand up meeting to communicate
+			* It works!
+		* Iron Traingle Remade
+			* Cost, date, and requirements are the corners of
+			the value driven triangle
+			* What do we estimate and what to we fix in time?
+				* Requirements is estimated
+	* Extreme Programming
+		* Widely used
+		* Customer representation on site
+		* 2-10 people working in one terminal
+		* 5-10 coders
+		* Incremental functionality
+	* Open Unified Process
+	* Agile Rup
+	* Kanban
+	* Lean
+		* House of lean thinking adapted from toyota
+		production system
+			* goal: sustainability delivering value fast
+			* pilar 1: respect for people
+			* pilar 2: continouous improvement
+			* foundation: management support
+			* contents: product development flow
+		* Something about the five Y's...I got distracted
+			* apparently the fifth y could've prevented
+			fukushima
+	* Even more...
+* He wants us to read about industrial disasters
+	* fukushima, 3 mile island
