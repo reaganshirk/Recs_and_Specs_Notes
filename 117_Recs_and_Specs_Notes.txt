@@ -1,0 +1,73 @@
+* Vision Document Anatomy
+	* Product Overview
+		* Product Perspective
+			* Interface to the world in a system's block
+			diagram
+		* Product position statement
+			* For customer who needs __ the product is a 
+			type that key benefits unlike alternative which
+			differentiation
+		* Summary of capabilities
+			* Benefit x of feature y
+		* Assumptions and dependencies
+		* Cost and pricing
+		* Feature attribute/definition
+		* Product features
+		* Exemplary use case(s)
+		* Other requirements
+			* Standards
+			* System requirements
+			* Licensing, security, installation
+			* Performance requirements
+		* Documentation requirements
+			* User manual
+			* Online help
+			* Installation guide, configuration, README files
+			* Labeling and packaging
+		* Glossary
+* Product Champion: Responsibilities
+	* Drive vision
+	* Manage road map
+	* Define plan
+	* Sponsor use cases and supplementary requirements
+	* test product concept
+	* complete user experience
+	* define commercial terms
+	* positioning and messaging
+	* For some reason it's important for us to know that in
+	industry, taking a week to push one line of code is actually
+	pretty fast
+	* Delta vision document is used for upcoming releases
+* What not to do
+	* Don't explain how the system is built
+	* Don't describe the technology
+	* Don't detail any resources needed, schedules, plans, or
+	cost
+* What not to say in documents
+	* State of the art
+	* Secure solution
+	* Peak performance
+	* Really cool
+* Skills for writing use cases/vision documents
+	* Require some form of writing skills
+		* Clarity; some writers are exceptionally clear and
+		others struggle to be comprehensible
+		* precision
+	* Tips for clarity
+		* humility
+		* use understandable words
+		* stay awau from jargon, acronyms, and ABBR
+			* BRD - business required document
+			* DFD - data flow diagram
+			* DD - data dictionary
+			* UAT - user acceptance testing
+			* ERD - entity relationship diagram
+		* pronouns can be dangerous
+		* don't make up ner terms
+		* write short sentences with a clear actor and action
+		* avoid wordiness and irrelevant information
+		* unnecessary qualifiers
+		* repetitive structures
+		* complicated words
+		* laborious descriptions of the obvious
+		* structure for clarity (lists, etc)
